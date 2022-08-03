@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Grocery-list
+
+  Created by Dongjie Zhang on 7/31/22.
+  
+*/
+
+"CFBundleName" = "超市回购清单";
+"NSCameraUsageDescription" = "访问相机以扫描价格标签";

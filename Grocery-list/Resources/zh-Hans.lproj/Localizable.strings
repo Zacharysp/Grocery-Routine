@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  Grocery-list
+
+  Created by Dongjie Zhang on 6/23/22.
+  
+*/
+
+// Shop item details
+
+"HISTORY_LOW_PRICE" = "历史最低价";
+"AVERAGE_PRICE" = "平均价格";
+"TOTAL_CHECKED_COUNT" = "总次数";
+"CHECKED_FREQUENCE" = "购买频率";
+"TRENDS" = "趋势";
+"STORE_NAME" = "商店名称";
+"VIEW_ALL" = "查看所有";
+"STORE_DETAIL" = "商店详情";
+"TIME_UNIT" = "次";
+"FREQUENCE_UNIT" = "天";
+"NO_DATA" = "数据不足";
+
+// Price history
+
+"NO_HISTORY" = "无历史记录";
+
+// Add price
+
+"NO_CAMERA_ACCESS" = "请允许访问相机以扫描价格标签，您可以随时在设置中管理此权限。";
+"GO_TO_SETTING" = "前往设置";
+"CAMERA_GUIDE" = "请将您的相机对准价格标签。";
+
+// Manage shoplist
+"NEW_NAME_PLACEHOLDER" = "新购物清单";
+"ITEM_UNIT_SINGLE" = "物品";
+"ITEM_UNIT_PLURAL" = "物品";
+"MY_SHOP_LIST" = "我的购物清单";
+
+// Add Shop Item
+"ITEM_NAME" = "物品名称";
+"ITEM_PLACEHOLDER" = "在这里输入名称";
+"ADD_ITEM" = "添加物品";
+
+// Shoplist detail
+"STORE_NAME" = "商店名称";
+"STORE_DETAIL" = "商店详情";
+
+// Main list
+"LAST_BUY" = "上次购买";
+
+// Shop List
+"DEFAULT_NAME" = "我的购物清单1";
+
+// Alert view
+
+"CONFIRM_UNDO_ITEM_TITLE" = "确认取消?";
+"CONFIRM_UNDO_ITEM_MESSAGE" = "取消会删除此次记录。";
+
+"CONFIRM_RECORD_TITLE" = "确认删除此次历史记录?";
+"CONFIRM_RECORD_MESSAGE" = "删除此历史记录将永久删除此次记录的价格。";
+
+"CONFIRM_DELETE_ITEM_TITLE" = "确认删除此物品?";
+"CONFIRM_DELETE_ITEM_MESSAGE" = "删除此物品将永久删除所有相关的价格。";
+
+"CONFIRM_DELETE_LIST_TITLE" = "确认删除此购物清单?";
+"CONFIRM_DELETE_LIST_MESSAGE" = "删除此购物清单将永久删除与其相关的所有物品和物品价格。";
+
+"THEME_COLOR" = "主题颜色";
+"DELETE" = "删除";
+"CONFIRM" = "确认";

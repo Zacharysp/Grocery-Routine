@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  Grocery-list
+
+  Created by Dongjie Zhang on 6/23/22.
+  
+*/
+
+// Shop item details
+
+"HISTORY_LOW_PRICE" = "History Low Price";
+"AVERAGE_PRICE" = "Average Price";
+"TOTAL_CHECKED_COUNT" = "Total Checked Count";
+"CHECKED_FREQUENCE" = "Checked Frequence";
+"TRENDS" = "Trends";
+"STORE_NAME" = "Store Name";
+"VIEW_ALL" = "View All";
+"STORE_DETAIL" = "Store Detail";
+"TIME_UNIT" = "times";
+"FREQUENCE_UNIT" = "days";
+"NO_DATA" = "Not enough data.";
+
+// Price history
+
+"NO_HISTORY" = "No History";
+
+// Add price
+
+"NO_CAMERA_ACCESS" = "Please Allow camera access to scan price tag. You can manage this access at any time in setting.";
+"GO_TO_SETTING" = "Go to setting";
+"CAMERA_GUIDE" = "Please point your camera to the price tag.";
+
+// Manage ShopList
+"NEW_NAME_PLACEHOLDER" = "New Shopping List";
+"ITEM_UNIT_SINGLE" = "item";
+"ITEM_UNIT_PLURAL" = "items";
+"MY_SHOP_LIST" = "My Shopping Lists";
+
+// Add Shop Item
+"ITEM_NAME" = "Item Name";
+"ITEM_PLACEHOLDER" = "Type name here";
+"ADD_ITEM" = "Add Item";
+
+// Shop List detail
+"STORE_NAME" = "Store Name";
+"STORE_DETAIL" = "Store Detail";
+
+// Main list
+"LAST_BUY" = "Last buy";
+
+// Shop List
+"DEFAULT_NAME" = "My First Shopping List";
+
+// Alert view
+
+"CONFIRM_UNDO_ITEM_TITLE" = "Confirm to undo item?";
+"CONFIRM_UNDO_ITEM_MESSAGE" = "Undo this item will delete today's checked record.";
+
+"CONFIRM_RECORD_TITLE" = "Confirm to delete history record?";
+"CONFIRM_RECORD_MESSAGE" = "Delete this history record will also delete the price associated with it.";
+
+"CONFIRM_DELETE_ITEM_TITLE" = "Confirm to delete item?";
+"CONFIRM_DELETE_ITEM_MESSAGE" = "Delete this item will delete all checked history records associated with it.";
+
+"CONFIRM_DELETE_LIST_TITLE" = "Confirm to delete shop list?";
+"CONFIRM_DELETE_LIST_MESSAGE" = "Delete this shop list will permanently delete all shop items and checked history records associated with it.";
+
+"THEME_COLOR" = "Theme Color";
+"DELETE" = "DELETE";
+"CONFIRM" = "CONFIRM";

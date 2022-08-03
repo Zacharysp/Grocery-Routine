@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Guesses</key>
+	<array>
+		<string>air freshener</string>
+		<string>allergy</string>
+		<string>almonds</string>
+		<string>aluminum foil</string>
+		<string>anchovies</string>
+		<string>antacid</string>
+		<string>antibiotic</string>
+		<string>antidiarrheal</string>
+		<string>antiperspirant</string>
+		<string>apples</string>
+		<string>arugula</string>
+		<string>asparagus</string>
+		<string>aspirin</string>
+		<string>avocado</string>
+		<string>avocados</string>
+		<string>baby food</string>
+		<string>baby wash</string>
+		<string>bacon</string>
+		<string>bagels</string>
+		<string>baked beans</string>
+		<string>baking powder</string>
+		<string>baking soda</string>
+		<string>balsamiccooking wine</string>
+		<string>bananas</string>
+		<string>band-aids</string>
+		<string>basil</string>
+		<string>bath soap</string>
+		<string>bathroom cleaner</string>
+		<string>batteries</string>
+		<string>bbq sauce</string>
+		<string>beer</string>
+		<string>berries</string>
+		<string>biscuitsseeds</string>
+		<string>black pepper</string>
+		<string>bleach</string>
+		<string>bleu cheese</string>
+		<string>bouillon cubes</string>
+		<string>brazil nuts</string>
+		<string>bread</string>
+		<string>bread buns</string>
+		<string>bread crumbs</string>
+		<string>brioche burger buns</string>
+		<string>broad beans</string>
+		<string>broccoli</string>
+		<string>brocolli</string>
+		<string>brown</string>
+		<string>brown bread</string>
+		<string>brownie mix</string>
+		<string>bulgar wheat</string>
+		<string>buns</string>
+		<string>burgers</string>
+		<string>burritos</string>
+		<string>butter</string>
+		<string>cake</string>
+		<string>cake icing</string>
+		<string>candy</string>
+		<string>canned  baked beans</string>
+		<string>canned apple sauce</string>
+		<string>canned chicken</string>
+		<string>canned chili</string>
+		<string>canned olives</string>
+		<string>canned soups</string>
+		<string>canned tinned meats</string>
+		<string>canned tomatoes</string>
+		<string>canned tuna</string>
+		<string>canned veggies</string>
+		<string>capers</string>
+		<string>carrots</string>
+		<string>cashews</string>
+		<string>cat food</string>
+		<string>cat litter</string>
+		<string>cat treats</string>
+		<string>catfish</string>
+		<string>cauliflower</string>
+		<string>celery</string>
+		<string>cereal</string>
+		<string>cereals</string>
+		<string>champagne</string>
+		<string>cheddar</string>
+		<string>cheese</string>
+		<string>cheese biscuits</string>
+		<string>cherries</string>
+		<string>chewing gum</string>
+		<string>chia seed</string>
+		<string>chicken</string>
+		<string>chicken breasts</string>
+		<string>chicken drumsticksbeef</string>
+		<string>chicken thighs</string>
+		<string>chip dip</string>
+		<string>chocolate</string>
+		<string>chocolate chips</string>
+		<string>cider</string>
+		<string>cilantro</string>
+		<string>cinnamon</string>
+		<string>club soda</string>
+		<string>cocoa</string>
+		<string>cocoa powder</string>
+		<string>cod</string>
+		<string>coffee</string>
+		<string>condensed milk</string>
+		<string>conditioner</string>
+		<string>condoms</string>
+		<string>cookies</string>
+		<string>coriander</string>
+		<string>corn</string>
+		<string>corn chips</string>
+		<string>cosmetics</string>
+		<string>cottage cheese</string>
+		<string>cotton balls</string>
+		<string>cotton swabs</string>
+		<string>couscous</string>
+		<string>crab</string>
+		<string>crackers</string>
+		<string>cream cheese</string>
+		<string>croissants</string>
+		<string>cucumber</string>
+		<string>cucumbers</string>
+		<string>custard powder</string>
+		<string>decorations</string>
+		<string>demerara</string>
+		<string>deodorant</string>
+		<string>detergent</string>
+		<string>diapers</string>
+		<string>dish soap</string>
+		<string>dishwasher soap</string>
+		<string>dog food</string>
+		<string>dog treats</string>
+		<string>donuts</string>
+		<string>dried fruit</string>
+		<string>dried mushrooms</string>
+		<string>edamame</string>
+		<string>edamame beans</string>
+		<string>eggs</string>
+		<string>eggs / fake eggs</string>
+		<string>english muffins</string>
+		<string>facial cleanser</string>
+		<string>facial tissue</string>
+		<string>feminine products</string>
+		<string>feta</string>
+		<string>fish fingers</string>
+		<string>fish sticks</string>
+		<string>flea treatment</string>
+		<string>floss</string>
+		<string>flour</string>
+		<string>food colourings</string>
+		<string>formula</string>
+		<string>freezer bags</string>
+		<string>fresh bread</string>
+		<string>fries</string>
+		<string>fruit juice</string>
+		<string>garbage bags</string>
+		<string>garbanzo</string>
+		<string>garlic</string>
+		<string>gin</string>
+		<string>ginger</string>
+		<string>glass cleaner</string>
+		<string>gnocchi</string>
+		<string>goat cheese</string>
+		<string>granola bars</string>
+		<string>granulated</string>
+		<string>grapefruit</string>
+		<string>grapes</string>
+		<string>gravy</string>
+		<string>greenbeans</string>
+		<string>gum</string>
+		<string>haddock</string>
+		<string>hair gel</string>
+		<string>hair spray</string>
+		<string>hand soap</string>
+		<string>half &amp; half milk</string>
+		<string>honey</string>
+		<string>hot sauce</string>
+		<string>hotdog buns</string>
+		<string>hummus</string>
+		<string>ice cream</string>
+		<string>ice-cream</string>
+		<string>icing</string>
+		<string>instant potatoes</string>
+		<string>jam</string>
+		<string>jelly</string>
+		<string>juice</string>
+		<string>juice concentrate</string>
+		<string>ketchup</string>
+		<string>kidney</string>
+		<string>kiwis</string>
+		<string>lasagna</string>
+		<string>lemon juice</string>
+		<string>lemons</string>
+		<string>lentils</string>
+		<string>lettuce</string>
+		<string>lime juice</string>
+		<string>limes</string>
+		<string>lip balm</string>
+		<string>lobster</string>
+		<string>lotion</string>
+		<string>malt</string>
+		<string>mac &amp; cheese</string>
+		<string>margarine</string>
+		<string>marmite</string>
+		<string>mayonnaise</string>
+		<string>meatballs</string>
+		<string>melon</string>
+		<string>milk</string>
+		<string>mint</string>
+		<string>mixed grilled vegetables</string>
+		<string>mixers</string>
+		<string>moisturizing lotion</string>
+		<string>mouthwash</string>
+		<string>mozzarella</string>
+		<string>mushrooms</string>
+		<string>mussels</string>
+		<string>mustard</string>
+		<string>napkins</string>
+		<string>nectarines</string>
+		<string>non-stick spray</string>
+		<string>noodles</string>
+		<string>oatcakes</string>
+		<string>oatmeal</string>
+		<string>olive oil</string>
+		<string>olives</string>
+		<string>onions</string>
+		<string>oranges</string>
+		<string>oregano</string>
+		<string>organic beef mince</string>
+		<string>oven chips</string>
+		<string>oysters</string>
+		<string>pain reliever</string>
+		<string>pancake</string>
+		<string>paper towels</string>
+		<string>paprika</string>
+		<string>parmesan</string>
+		<string>parsley</string>
+		<string>pasta</string>
+		<string>pasta sauce</string>
+		<string>pastries</string>
+		<string>peaches</string>
+		<string>peanut butter</string>
+		<string>pears</string>
+		<string>peas</string>
+		<string>penne</string>
+		<string>peppers</string>
+		<string>pet shampoo</string>
+		<string>pickles</string>
+		<string>pie</string>
+		<string>pine kernels</string>
+		<string>pineapple</string>
+		<string>pita bread</string>
+		<string>pizza</string>
+		<string>plastic wrap</string>
+		<string>plums</string>
+		<string>popcorn</string>
+		<string>popsicles</string>
+		<string>pork</string>
+		<string>pork chops</string>
+		<string>porridge oats</string>
+		<string>potato chips</string>
+		<string>potatoes</string>
+		<string>prawns</string>
+		<string>preserves</string>
+		<string>pretzels</string>
+		<string>provolone</string>
+		<string>pudding</string>
+		<string>puddings</string>
+		<string>pumpkins</string>
+		<string>quinoa</string>
+		<string>razors cream</string>
+		<string>red pepper</string>
+		<string>red wine</string>
+		<string>relish</string>
+		<string>rice</string>
+		<string>ricotta</string>
+		<string>risotto</string>
+		<string>rocket</string>
+		<string>rolls</string>
+		<string>root vegetables</string>
+		<string>rum</string>
+		<string>saké</string>
+		<string>salad dressing</string>
+		<string>salmon</string>
+		<string>salsa</string>
+		<string>salt</string>
+		<string>sandwich bags</string>
+		<string>sandwich slices</string>
+		<string>sardines</string>
+		<string>sausages</string>
+		<string>scrubbers</string>
+		<string>sesamenuts</string>
+		<string>shampoo</string>
+		<string>shaving cream</string>
+		<string>shortening</string>
+		<string>shrimp</string>
+		<string>sliced bread</string>
+		<string>small pasta</string>
+		<string>smoked salmon</string>
+		<string>smoothie fruit mix</string>
+		<string>soda pop</string>
+		<string>sofrito mix</string>
+		<string>soup pasta</string>
+		<string>sour cream</string>
+		<string>soy sauce</string>
+		<string>spaghetti</string>
+		<string>spelt sourdough</string>
+		<string>spice mix</string>
+		<string>spinach</string>
+		<string>sponges</string>
+		<string>sports drink</string>
+		<string>squash</string>
+		<string>sriracha</string>
+		<string>steak sauce</string>
+		<string>sugar</string>
+		<string>sugar substitute</string>
+		<string>sunblock</string>
+		<string>sunflower oil</string>
+		<string>swiss</string>
+		<string>syrup</string>
+		<string>tacos</string>
+		<string>tagliatelle</string>
+		<string>tartar</string>
+		<string>tea</string>
+		<string>tikka paste</string>
+		<string>tilapia</string>
+		<string>tofu</string>
+		<string>toilet paper</string>
+		<string>tomato</string>
+		<string>tomatoes</string>
+		<string>toothpaste</string>
+		<string>tortillas</string>
+		<string>treacle</string>
+		<string>tuna</string>
+		<string>vacuum bags</string>
+		<string>vanilla essence</string>
+		<string>vanilla extract</string>
+		<string>vegetable oil</string>
+		<string>veggie burgers</string>
+		<string>veggie sausages</string>
+		<string>vinegar</string>
+		<string>vitamins</string>
+		<string>vodka</string>
+		<string>waffle mix</string>
+		<string>walnut</string>
+		<string>wax paper</string>
+		<string>whipped cream</string>
+		<string>whiskey</string>
+		<string>white basmati</string>
+		<string>white bread</string>
+		<string>white wine</string>
+		<string>whole chicken</string>
+		<string>wholemeal basmati</string>
+		<string>wipes</string>
+		<string>worcestershire sauce</string>
+		<string>yeast</string>
+		<string>yoghurt</string>
+		<string>yogurt</string>
+		<string>zucchini</string>
+        <string>芝麻</string>
+        <string>缩短</string>
+        <string>虾</string>
+        <string>切片面包</string>
+        <string>小面食</string>
+        <string>烟熏三文鱼</string>
+        <string>冰沙水果混合物</string>
+        <string>索菲托混合</string>
+        <string>汤面</string>
+        <string>酸奶油</string>
+        <string>酱油</string>
+        <string>拼写酵母</string>
+        <string>香料混合</string>
+        <string>菠菜</string>
+        <string>海绵</string>
+        <string>运动饮料</string>
+        <string>壁球</string>
+        <string>是拉差</string>
+        <string>牛排酱</string>
+        <string>糖</string>
+        <string>代糖</string>
+        <string>防晒霜</string>
+        <string>葵花籽油</string>
+        <string>瑞士</string>
+        <string>糖浆</string>
+        <string>炸玉米饼</string>
+        <string>鞑靼</string>
+        <string>茶</string>
+        <string>提卡酱</string>
+        <string>罗非鱼</string>
+        <string>豆腐</string>
+        <string>卫生纸</string>
+        <string>番茄</string>
+        <string>玉米饼</string>
+        <string>金枪鱼</string>
+        <string>真空袋</string>
+        <string>香草香精</string>
+        <string>香草精</string>
+        <string>植物油</string>
+        <string>素食汉堡</string>
+        <string>蔬菜香肠</string>
+        <string>尖酸刻薄</string>
+        <string>维生素</string>
+        <string>伏特加</string>
+        <string>华夫饼混合</string>
+        <string>核桃</string>
+        <string>蜡纸</string>
+        <string>生奶油</string>
+        <string>威士忌酒</string>
+        <string>白色巴斯马蒂</string>
+        <string>白面包</string>
+        <string>白酒</string>
+        <string>整只鸡</string>
+        <string>全麦巴斯马蒂</string>
+        <string>湿巾</string>
+        <string>伍斯特沙司</string>
+        <string>酵母</string>
+        <string>酸奶</string>
+        <string>夏南瓜</string>
+        <string>洗衣液</string>
+        <string>宝宝洗衣液</string>
+        <string>洗洁精</string>
+        <string>奶瓶清洗剂</string>
+        <string>地板清洁剂</string>
+        <string>洁厕液</string>
+        <string>洗手液</string>
+        <string>洗发水</string>
+        <string>沐浴露</string>
+        <string>洗面奶</string>
+        <string>牙刷</string>
+        <string>牙膏</string>
+        <string>牙线</string>
+        <string>漱口水</string>
+        <string>肥皂</string>
+        <string>滴露消毒液</string>
+        <string>抹布</string>
+        <string>杏仁</string>
+        <string>铝箔</string>
+        <string>鳀鱼</string>
+        <string>抗酸剂</string>
+        <string>抗生素</string>
+        <string>止泻药</string>
+        <string>止汗剂</string>
+        <string>苹果</string>
+        <string>芝麻菜</string>
+        <string>芦笋</string>
+        <string>阿司匹林</string>
+        <string>牛油果</string>
+        <string>婴儿食品</string>
+        <string>婴儿洗面奶</string>
+        <string>培根</string>
+        <string>贝果</string>
+        <string>烤豆</string>
+        <string>发酵粉</string>
+        <string>小苏打</string>
+        <string>香醋料酒</string>
+        <string>香蕉</string>
+        <string>创可贴</string>
+        <string>罗勒</string>
+        <string>浴室清洁剂</string>
+        <string>电池</string>
+        <string>烤肉酱</string>
+        <string>啤酒</string>
+        <string>浆果</string>
+        <string>饼干籽</string>
+        <string>黑胡椒</string>
+        <string>漂白</string>
+        <string>蓝奶酪</string>
+        <string>肉汤立方体</string>
+        <string>巴西坚果</string>
+        <string>面包</string>
+        <string>馒头</string>
+        <string>面包屑</string>
+        <string>奶油蛋卷汉堡面包</string>
+        <string>蚕豆</string>
+        <string>西兰花</string>
+        <string>棕色的</string>
+        <string>褐色面包</string>
+        <string>布朗尼混合物</string>
+        <string>保加利亚小麦</string>
+        <string>包子</string>
+        <string>汉堡</string>
+        <string>墨西哥卷饼</string>
+        <string>牛油</string>
+        <string>蛋糕</string>
+        <string>蛋糕糖霜</string>
+        <string>糖果</string>
+        <string>罐装烤豆</string>
+        <string>罐装苹果酱</string>
+        <string>罐头鸡肉</string>
+        <string>罐头辣椒</string>
+        <string>橄榄罐头</string>
+        <string>罐头汤</string>
+        <string>罐头肉罐头</string>
+        <string>罐装番茄</string>
+        <string>金枪鱼罐头</string>
+        <string>罐头蔬菜</string>
+        <string>刺山柑</string>
+        <string>萝卜</string>
+        <string>腰果</string>
+        <string>猫食</string>
+        <string>猫砂</string>
+        <string>猫零食</string>
+        <string>鲶鱼</string>
+        <string>菜花</string>
+        <string>芹菜</string>
+        <string>谷物</string>
+        <string>香槟酒</string>
+        <string>切达干酪</string>
+        <string>起司</string>
+        <string>芝士饼干</string>
+        <string>樱桃</string>
+        <string>口香糖</string>
+        <string>嘉种子</string>
+        <string>鸡</string>
+        <string>鸡胸肉</string>
+        <string>鸡腿牛肉</string>
+        <string>鸡大腿</string>
+        <string>芯片倾角</string>
+        <string>巧克力</string>
+        <string>巧克力脆片</string>
+        <string>苹果酒</string>
+        <string>香菜</string>
+        <string>肉桂</string>
+        <string>苏打水</string>
+        <string>可可</string>
+        <string>可可粉</string>
+        <string>鳕鱼</string>
+        <string>咖啡</string>
+        <string>炼乳</string>
+        <string>护发素</string>
+        <string>避孕套</string>
+        <string>饼干</string>
+        <string>玉米</string>
+        <string>玉米片</string>
+        <string>化妆品</string>
+        <string>干酪</string>
+        <string>棉花球</string>
+        <string>棉签</string>
+        <string>库斯库斯</string>
+        <string>螃蟹</string>
+        <string>奶油乳酪</string>
+        <string>牛角包</string>
+        <string>黄瓜</string>
+        <string>蛋黄粉</string>
+        <string>装饰</string>
+        <string>德梅拉拉</string>
+        <string>除臭剂</string>
+        <string>洗涤剂</string>
+        <string>尿布</string>
+        <string>洗碗剂</string>
+        <string>洗碗机肥皂</string>
+        <string>狗粮</string>
+        <string>甜甜圈</string>
+        <string>干果</string>
+        <string>干香菇</string>
+        <string>毛豆</string>
+        <string>蛋</string>
+        <string>鸡蛋/假鸡蛋</string>
+        <string>英国松饼</string>
+        <string>面纸</string>
+        <string>女性产品</string>
+        <string>羊乳酪</string>
+        <string>鱼指</string>
+        <string>鱼棒</string>
+        <string>跳蚤治疗</string>
+        <string>面粉</string>
+        <string>食用色素</string>
+        <string>公式</string>
+        <string>冷冻袋</string>
+        <string>新鲜的面包</string>
+        <string>薯条</string>
+        <string>果汁</string>
+        <string>垃圾袋</string>
+        <string>鹰嘴豆</string>
+        <string>大蒜</string>
+        <string>杜松子酒</string>
+        <string>生姜</string>
+        <string>玻璃清洁剂</string>
+        <string>汤团</string>
+        <string>山羊奶酪</string>
+        <string>格兰诺拉麦片棒</string>
+        <string>粒状</string>
+        <string>西柚</string>
+        <string>葡萄</string>
+        <string>肉汁</string>
+        <string>绿豆</string>
+        <string>发胶</string>
+        <string>一半&amp;半个牛奶</string>
+        <string>蜂蜜</string>
+        <string>辣酱</string>
+        <string>热狗面包</string>
+        <string>鹰嘴豆泥</string>
+        <string>冰淇淋</string>
+        <string>刨冰</string>
+        <string>速溶土豆</string>
+        <string>果酱</string>
+        <string>果冻</string>
+        <string>浓缩果汁</string>
+        <string>番茄酱</string>
+        <string>肾</string>
+        <string>奇异果</string>
+        <string>烤宽面条</string>
+        <string>柠檬汁</string>
+        <string>柠檬</string>
+        <string>扁豆</string>
+        <string>生菜</string>
+        <string>青柠汁</string>
+        <string>青柠</string>
+        <string>润唇膏</string>
+        <string>龙虾</string>
+        <string>洗剂</string>
+        <string>麦芽</string>
+        <string>麦克&amp;起司</string>
+        <string>人造黄油</string>
+        <string>马麦</string>
+        <string>蛋黄酱</string>
+        <string>肉丸</string>
+        <string>瓜</string>
+        <string>牛奶</string>
+        <string>薄荷</string>
+        <string>混合烤蔬菜</string>
+        <string>搅拌机</string>
+        <string>保湿乳液</string>
+        <string>奶酪</string>
+        <string>蘑菇</string>
+        <string>青口贝</string>
+        <string>芥末</string>
+        <string>餐巾纸</string>
+        <string>油桃</string>
+        <string>不粘喷雾</string>
+        <string>面条</string>
+        <string>燕麦饼</string>
+        <string>麦片</string>
+        <string>橄榄油</string>
+        <string>橄榄</string>
+        <string>洋葱</string>
+        <string>橘子</string>
+        <string>牛至</string>
+        <string>有机牛肉碎</string>
+        <string>烤箱芯片</string>
+        <string>生蚝</string>
+        <string>止痛药</string>
+        <string>饼子</string>
+        <string>纸巾</string>
+        <string>辣椒</string>
+        <string>帕尔马干酪</string>
+        <string>意大利面</string>
+        <string>意大利面酱</string>
+        <string>糕点</string>
+        <string>桃子</string>
+        <string>花生酱</string>
+        <string>梨</string>
+        <string>豌豆</string>
+        <string>通心粉</string>
+        <string>胡椒</string>
+        <string>宠物洗发水</string>
+        <string>泡菜</string>
+        <string>馅饼</string>
+        <string>松仁</string>
+        <string>菠萝</string>
+        <string>皮塔饼</string>
+        <string>比萨</string>
+        <string>保鲜膜</string>
+        <string>李子</string>
+        <string>爆米花</string>
+        <string>冰棒</string>
+        <string>猪肉</string>
+        <string>猪排</string>
+        <string>燕麦粥</string>
+        <string>土豆片</string>
+        <string>土豆</string>
+        <string>对虾</string>
+        <string>椒盐脆饼</string>
+        <string>普罗卧干酪</string>
+        <string>布丁</string>
+        <string>南瓜</string>
+        <string>藜麦</string>
+        <string>剃须膏</string>
+        <string>红酒</string>
+        <string>津津乐道</string>
+        <string>白饭</string>
+        <string>凝乳</string>
+        <string>烩饭</string>
+        <string>火箭</string>
+        <string>劳斯莱斯</string>
+        <string>根茎类蔬菜</string>
+        <string>朗姆酒</string>
+        <string>清酒</string>
+        <string>沙拉酱</string>
+        <string>三文鱼</string>
+        <string>莎莎酱</string>
+        <string>盐</string>
+        <string>三明治袋</string>
+        <string>三明治片</string>
+        <string>沙丁鱼</string>
+        <string>香肠</string>
+        <string>洗涤器</string>
+	</array>
+</dict>
+</plist>

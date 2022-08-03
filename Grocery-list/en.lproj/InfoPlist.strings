@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Grocery-list
+
+  Created by Dongjie Zhang on 7/31/22.
+  
+*/
+
+"CFBundleName" = "Grocery Routine";
+"NSCameraUsageDescription" = "use camera to scan price tag.";
